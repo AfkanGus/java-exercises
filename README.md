@@ -1,2 +1,2 @@
 # java-exercises
-Here are my java exercises, I think it's wise.
+ Hello✌! Here are my java exercises, i think it's wise.✔

@@ -10,7 +10,6 @@ public class Exercise4 {
         long years = (long)(min / minutsInYear);
         int days  = (int)(min/60/24)/365;
         System.out.println((int)min + "minutes is appoximately" + years  + " years" + days + " days" );
-
-
     }
 }
+
